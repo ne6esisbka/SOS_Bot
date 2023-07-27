@@ -362,7 +362,7 @@ async def message_all(message: types.Message) -> None:
                                               f"Как написать служебку")
 
     else:
-        chat = -1001559372758
+        chat = you_chat                                                                      # you chat
         mess_chat = message.chat.id
         user_id = message.from_user.id
         user_name = message.from_user.full_name
