@@ -1,0 +1,15 @@
+          Категория  Январь Февраль     Март   Апрель      Май      Июнь    Июль Август Сентябрь Октябрь Ноябрь Декабрь
+0          Продукты     0.0    None  29136.0  26337.0  29136.0   27864.0   29209   None     None    None   None    None
+1         Хозтовары     0.0    None   1631.0    611.0   1631.0   15153.0    5161   None     None    None   None    None
+2      Кв в Коврове     0.0    None  11000.0  11000.0  11000.0   11000.0   11000   None     None    None   None    None
+3          Квартира     0.0    None  33000.0  33000.0  33000.0   33000.0   33000   None     None    None   None    None
+4      Аптека/Врачи     0.0    None  18480.0   4470.0  18480.0    9535.0   14658   None     None    None   None    None
+5         Транспорт     0.0    None   3470.0   4752.0   3470.0    4000.0    5697   None     None    None   None    None
+6   Моб связь/Банки     0.0    None   2670.0   1570.0   2670.0    1570.0    1570   None     None    None   None    None
+7          Доставка     0.0    None      0.0   3124.0      0.0    7058.0    5128   None     None    None   None    None
+8            Прочее     0.0    None   1400.0  16154.0   1400.0   20469.0    6559   None     None    None   None    None
+9             Хобби     NaN    None   3699.0   2303.0   3699.0    2608.0    1175   None     None    None   None    None
+10      Путешествие     NaN    None      NaN      NaN      NaN  116940.0   11826   None     None    None   None    None
+11           Одежда     NaN    None      NaN      NaN      NaN       NaN    1300   None     None    None   None    None
+12          Копилка     NaN    None      NaN      NaN      NaN       NaN   90000   None     None    None   None    None
+13           Доходы     NaN    None      NaN      NaN      NaN  175621.0  239843   None     None    None   None    None
