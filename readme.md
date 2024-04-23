@@ -206,7 +206,7 @@ Git сообщит об этом с помощью статуса modified: фа
   graph TD;
 	Untracked -- "git add" -->Staged/Tracked;
 	Staged/Tracked -- "git commit" --> Tracked/Commited;
-	Staged/Commited --> Modified/Tracked;
+	Tracked/Commited --> Modified/Tracked;
 	Modified/Tracked -- "git add" --> Staged/Tracked;
 	
 ```
