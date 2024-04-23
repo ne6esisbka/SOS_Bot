@@ -205,7 +205,8 @@ Git сообщит об этом с помощью статуса modified: фа
 ```mermaid
   graph TD;
 	Untracked -- "git add" -->Staged/Tracked;
-	Staged -- "git commit" --> Tracked/Commited;
+	Staged/Tracked -- "git commit" --> Tracked/Commited;
+	Staged/Commited --> Modified/Tracked;
 	Modified/Tracked -- "git add" --> Staged/Tracked;
 	
 ```
